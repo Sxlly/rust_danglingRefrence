@@ -1,3 +1,7 @@
+
+
+
+
 fn main() { //declare main method
 
     fn dangling_ref() -> &String { // decalre new function -> dangling_ref that returns string refrence
