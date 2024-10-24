@@ -2,7 +2,7 @@
 // 20643731
 // Programming Languages - Assignment
 // 23/09/24
-
+ //meant to crash***
 
 fn main() { //declare main method
 
